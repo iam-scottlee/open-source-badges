@@ -1,0 +1,8 @@
+title: Open Source Badges
+description: Open Source & Licence Badges
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-midnight
+
+gems:
+  - jekyll-mentions
